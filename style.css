@@ -761,6 +761,8 @@ article.sticky .featured-post {
 	font-size: 21px;
 	font-size: 1.5rem;
 	line-height: 1.5;
+	border-bottom: #afafaf dotted 2px;
+
 }
 .entry-content h2,
 .comment-content h2,
